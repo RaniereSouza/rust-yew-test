@@ -29,7 +29,10 @@
 			"extensions": [
 				"rust-lang.rust-analyzer",
 				"tamasfe.even-better-toml",
-				"ms-vscode.makefile-tools"
+				"ms-vscode.makefile-tools",
+				"shd101wyy.markdown-preview-enhanced",
+				"pkief.material-icon-theme",
+				"zhuangtongfa.material-theme"
 			]
 		}
 	},
